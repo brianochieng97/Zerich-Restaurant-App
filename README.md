@@ -1,2 +1,1 @@
-# Zerich-Restaurant-App
-Zerich Restaurant Application 
+# kingtrip_modern_restaurant
